@@ -9,7 +9,7 @@
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
     <!-- 声明所需通知权限 -->
     <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-    <!-- 声明后台媒体播放权限权限 -->
+    <!-- 声明后台媒体播放权限权限666 -->
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
     <application
         android:allowBackup="true"
